@@ -1,0 +1,518 @@
+2025-05-13 15:57:53,396 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 15:57:53,398 - CardProcessingLogger - INFO - image saved: _output\100.jpg
+2025-05-13 15:57:53,816 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 15:57:53,832 - CardProcessingLogger - INFO - image saved: _output\101.jpg
+2025-05-13 15:57:54,203 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 15:57:54,208 - CardProcessingLogger - INFO - image saved: _output\102.jpg
+2025-05-13 15:57:54,475 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 15:57:54,477 - CardProcessingLogger - INFO - image saved: _output\103.jpg
+2025-05-13 15:57:54,921 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 15:57:54,925 - CardProcessingLogger - INFO - image saved: _output\105.jpg
+2025-05-13 15:57:55,338 - CardProcessingLogger - INFO - CARD NUMBER: 5225758888888888
+2025-05-13 15:57:55,340 - CardProcessingLogger - INFO - image saved: _output\106.jpg
+2025-05-13 15:57:55,675 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 15:57:55,676 - CardProcessingLogger - INFO - image saved: _output\107.jpg
+2025-05-13 15:57:55,969 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 15:57:55,970 - CardProcessingLogger - INFO - image saved: _output\108.jpg
+2025-05-13 15:57:56,362 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 15:57:56,363 - CardProcessingLogger - INFO - image saved: _output\109.jpg
+2025-05-13 15:57:57,102 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 15:57:57,103 - CardProcessingLogger - INFO - image saved: _output\110.jpg
+2025-05-13 15:57:57,650 - CardProcessingLogger - INFO - CARD NUMBER: 6225768888888888
+2025-05-13 15:57:57,652 - CardProcessingLogger - INFO - image saved: _output\111.jpg
+2025-05-13 15:57:57,670 - CardProcessingLogger - ERROR - eroor in polygon processing 112.jpg: Failed to approximate polygon to 4
+2025-05-13 15:57:58,053 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 15:57:58,054 - CardProcessingLogger - INFO - image saved: _output\113.jpg
+2025-05-13 15:57:58,727 - CardProcessingLogger - INFO - CARD NUMBER: 4392608888888888
+2025-05-13 15:57:58,730 - CardProcessingLogger - INFO - image saved: _output\115.jpg
+2025-05-13 15:57:59,328 - CardProcessingLogger - INFO - CARD NUMBER: 4392608888888888
+2025-05-13 15:57:59,330 - CardProcessingLogger - INFO - image saved: _output\116.jpg
+2025-05-13 15:57:59,349 - CardProcessingLogger - ERROR - eroor in polygon processing 117.jpg: Failed to approximate polygon to 4
+2025-05-13 15:57:59,723 - CardProcessingLogger - INFO - CARD NUMBER: 4392608888888888
+2025-05-13 15:57:59,723 - CardProcessingLogger - INFO - image saved: _output\118.jpg
+2025-05-13 15:58:00,224 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 15:58:00,225 - CardProcessingLogger - INFO - image saved: _output\120.jpg
+2025-05-13 15:58:00,758 - CardProcessingLogger - INFO - CARD NUMBER: 6225818888888888
+2025-05-13 15:58:00,760 - CardProcessingLogger - INFO - image saved: _output\121.jpg
+2025-05-13 15:58:01,395 - CardProcessingLogger - INFO - CARD NUMBER: 6225818888888888
+2025-05-13 15:58:01,396 - CardProcessingLogger - INFO - image saved: _output\122.jpg
+2025-05-13 15:58:01,767 - CardProcessingLogger - INFO - CARD NUMBER: 7225818838888888
+2025-05-13 15:58:01,768 - CardProcessingLogger - INFO - image saved: _output\123.jpg
+2025-05-13 15:58:02,156 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 15:58:02,157 - CardProcessingLogger - INFO - image saved: _output\124.jpg
+2025-05-13 15:58:02,676 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 15:58:02,678 - CardProcessingLogger - INFO - image saved: _output\125.jpg
+2025-05-13 15:58:03,156 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 15:58:03,157 - CardProcessingLogger - INFO - image saved: _output\126.jpg
+2025-05-13 15:58:03,608 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 15:58:03,609 - CardProcessingLogger - INFO - image saved: _output\127.jpg
+2025-05-13 15:58:03,979 - CardProcessingLogger - INFO - CARD NUMBER: 5236498653888888
+2025-05-13 15:58:03,980 - CardProcessingLogger - INFO - image saved: _output\128.jpg
+2025-05-13 15:58:04,508 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 15:58:04,511 - CardProcessingLogger - INFO - image saved: _output\517.jpg
+2025-05-13 15:58:04,987 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 15:58:04,989 - CardProcessingLogger - INFO - image saved: _output\518.jpg
+2025-05-13 15:58:05,010 - CardProcessingLogger - ERROR - eroor in polygon processing 519.jpg: Failed to approximate polygon to 4
+2025-05-13 15:58:05,488 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 15:58:05,489 - CardProcessingLogger - INFO - image saved: _output\520.jpg
+2025-05-13 15:58:05,902 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 15:58:05,903 - CardProcessingLogger - INFO - image saved: _output\521.jpg
+2025-05-13 15:58:06,469 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 15:58:06,471 - CardProcessingLogger - INFO - image saved: _output\522.jpg
+2025-05-13 15:58:06,490 - CardProcessingLogger - ERROR - eroor in polygon processing 523.jpg: Failed to approximate polygon to 4
+2025-05-13 15:58:06,509 - CardProcessingLogger - ERROR - eroor in polygon processing 524.jpg: Failed to approximate polygon to 4
+2025-05-13 15:58:06,885 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 15:58:06,886 - CardProcessingLogger - INFO - image saved: _output\526.jpg
+2025-05-13 15:58:07,521 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 15:58:07,522 - CardProcessingLogger - INFO - image saved: _output\527.jpg
+2025-05-13 15:58:08,103 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 15:58:08,110 - CardProcessingLogger - INFO - image saved: _output\528.jpg
+2025-05-13 15:58:08,130 - CardProcessingLogger - ERROR - eroor in polygon processing 529.jpg: Failed to approximate polygon to 4
+2025-05-13 15:58:08,557 - CardProcessingLogger - INFO - CARD NUMBER: 5225768888388888
+2025-05-13 15:58:08,559 - CardProcessingLogger - INFO - image saved: _output\530.jpg
+2025-05-13 15:58:08,962 - CardProcessingLogger - INFO - CARD NUMBER: 6225768888888888
+2025-05-13 15:58:08,964 - CardProcessingLogger - INFO - image saved: _output\531.jpg
+2025-05-13 15:58:09,572 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 15:58:09,574 - CardProcessingLogger - INFO - image saved: _output\85.jpg
+2025-05-13 15:58:10,226 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 15:58:10,228 - CardProcessingLogger - INFO - image saved: _output\86.jpg
+2025-05-13 15:58:10,921 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 15:58:10,923 - CardProcessingLogger - INFO - image saved: _output\87.jpg
+2025-05-13 15:58:11,370 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 15:58:11,371 - CardProcessingLogger - INFO - image saved: _output\88.jpg
+2025-05-13 15:58:11,794 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888838888
+2025-05-13 15:58:11,795 - CardProcessingLogger - INFO - image saved: _output\89.jpg
+2025-05-13 15:58:12,381 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 15:58:12,383 - CardProcessingLogger - INFO - image saved: _output\90.jpg
+2025-05-13 15:58:13,054 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 15:58:13,055 - CardProcessingLogger - INFO - image saved: _output\91.jpg
+2025-05-13 15:58:13,451 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 15:58:13,452 - CardProcessingLogger - INFO - image saved: _output\92.jpg
+2025-05-13 15:58:13,789 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 15:58:13,790 - CardProcessingLogger - INFO - image saved: _output\93.jpg
+2025-05-13 15:58:14,138 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 15:58:14,139 - CardProcessingLogger - INFO - image saved: _output\94.jpg
+2025-05-13 15:58:14,625 - CardProcessingLogger - INFO - CARD NUMBER: 5225758888388898
+2025-05-13 15:58:14,628 - CardProcessingLogger - INFO - image saved: _output\95.jpg
+2025-05-13 15:58:15,130 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 15:58:15,131 - CardProcessingLogger - INFO - image saved: _output\96.jpg
+2025-05-13 15:58:15,463 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 15:58:15,464 - CardProcessingLogger - INFO - image saved: _output\97.jpg
+2025-05-13 15:58:15,772 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 15:58:15,774 - CardProcessingLogger - INFO - image saved: _output\98.jpg
+2025-05-13 15:58:16,163 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 15:58:16,164 - CardProcessingLogger - INFO - image saved: _output\99.jpg
+2025-05-13 15:58:17,616 - CardProcessingLogger - INFO - CARD NUMBER: 4916989009279160
+2025-05-13 15:58:17,627 - CardProcessingLogger - INFO - image saved: _output\test_image.png
+2025-05-13 16:14:45,560 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 16:14:45,562 - CardProcessingLogger - INFO - image saved: _output\100.jpg
+2025-05-13 16:14:46,702 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 16:14:46,704 - CardProcessingLogger - INFO - image saved: _output\101.jpg
+2025-05-13 16:14:47,704 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 16:14:47,705 - CardProcessingLogger - INFO - image saved: _output\102.jpg
+2025-05-13 16:14:48,486 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 16:14:48,487 - CardProcessingLogger - INFO - image saved: _output\103.jpg
+2025-05-13 16:14:49,782 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 16:14:49,783 - CardProcessingLogger - INFO - image saved: _output\105.jpg
+2025-05-13 16:14:51,058 - CardProcessingLogger - INFO - CARD NUMBER: 5225758888888888
+2025-05-13 16:14:51,060 - CardProcessingLogger - INFO - image saved: _output\106.jpg
+2025-05-13 16:14:52,081 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 16:14:52,082 - CardProcessingLogger - INFO - image saved: _output\107.jpg
+2025-05-13 16:14:52,929 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 16:14:52,930 - CardProcessingLogger - INFO - image saved: _output\108.jpg
+2025-05-13 16:14:54,024 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 16:14:54,026 - CardProcessingLogger - INFO - image saved: _output\109.jpg
+2025-05-13 16:14:55,676 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 16:14:55,677 - CardProcessingLogger - INFO - image saved: _output\110.jpg
+2025-05-13 16:14:57,169 - CardProcessingLogger - INFO - CARD NUMBER: 6225768888888888
+2025-05-13 16:14:57,171 - CardProcessingLogger - INFO - image saved: _output\111.jpg
+2025-05-13 16:14:57,294 - CardProcessingLogger - ERROR - eroor in polygon processing 112.jpg: Failed to approximate polygon to 4
+2025-05-13 16:14:58,371 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 16:14:58,373 - CardProcessingLogger - INFO - image saved: _output\113.jpg
+2025-05-13 16:15:00,164 - CardProcessingLogger - INFO - CARD NUMBER: 4392608888888888
+2025-05-13 16:15:00,167 - CardProcessingLogger - INFO - image saved: _output\115.jpg
+2025-05-13 16:15:01,858 - CardProcessingLogger - INFO - CARD NUMBER: 4392608888888888
+2025-05-13 16:15:01,860 - CardProcessingLogger - INFO - image saved: _output\116.jpg
+2025-05-13 16:15:01,975 - CardProcessingLogger - ERROR - eroor in polygon processing 117.jpg: Failed to approximate polygon to 4
+2025-05-13 16:15:03,016 - CardProcessingLogger - INFO - CARD NUMBER: 4392608888888888
+2025-05-13 16:15:03,018 - CardProcessingLogger - INFO - image saved: _output\118.jpg
+2025-05-13 16:15:04,376 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 16:15:04,378 - CardProcessingLogger - INFO - image saved: _output\120.jpg
+2025-05-13 16:15:05,800 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 16:15:05,802 - CardProcessingLogger - INFO - image saved: _output\121.jpg
+2025-05-13 16:15:07,293 - CardProcessingLogger - INFO - CARD NUMBER: 6225818888888888
+2025-05-13 16:15:07,295 - CardProcessingLogger - INFO - image saved: _output\122.jpg
+2025-05-13 16:15:08,312 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 16:15:08,313 - CardProcessingLogger - INFO - image saved: _output\123.jpg
+2025-05-13 16:15:09,425 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 16:15:09,427 - CardProcessingLogger - INFO - image saved: _output\124.jpg
+2025-05-13 16:15:10,787 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 16:15:10,789 - CardProcessingLogger - INFO - image saved: _output\125.jpg
+2025-05-13 16:15:12,030 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 16:15:12,031 - CardProcessingLogger - INFO - image saved: _output\126.jpg
+2025-05-13 16:15:13,332 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 16:15:13,334 - CardProcessingLogger - INFO - image saved: _output\127.jpg
+2025-05-13 16:15:14,365 - CardProcessingLogger - INFO - CARD NUMBER: 5236498653888888
+2025-05-13 16:15:14,366 - CardProcessingLogger - INFO - image saved: _output\128.jpg
+2025-05-13 16:15:15,753 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 16:15:15,754 - CardProcessingLogger - INFO - image saved: _output\517.jpg
+2025-05-13 16:15:17,002 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 16:15:17,003 - CardProcessingLogger - INFO - image saved: _output\518.jpg
+2025-05-13 16:15:17,122 - CardProcessingLogger - ERROR - eroor in polygon processing 519.jpg: Failed to approximate polygon to 4
+2025-05-13 16:15:18,142 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 16:15:18,144 - CardProcessingLogger - INFO - image saved: _output\520.jpg
+2025-05-13 16:15:19,254 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 16:15:19,255 - CardProcessingLogger - INFO - image saved: _output\521.jpg
+2025-05-13 16:15:20,719 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 16:15:20,721 - CardProcessingLogger - INFO - image saved: _output\522.jpg
+2025-05-13 16:15:20,835 - CardProcessingLogger - ERROR - eroor in polygon processing 523.jpg: Failed to approximate polygon to 4
+2025-05-13 16:15:20,959 - CardProcessingLogger - ERROR - eroor in polygon processing 524.jpg: Failed to approximate polygon to 4
+2025-05-13 16:15:21,916 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 16:15:21,917 - CardProcessingLogger - INFO - image saved: _output\526.jpg
+2025-05-13 16:15:23,336 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 16:15:23,338 - CardProcessingLogger - INFO - image saved: _output\527.jpg
+2025-05-13 16:15:24,911 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 16:15:24,913 - CardProcessingLogger - INFO - image saved: _output\528.jpg
+2025-05-13 16:15:25,038 - CardProcessingLogger - ERROR - eroor in polygon processing 529.jpg: Failed to approximate polygon to 4
+2025-05-13 16:15:26,180 - CardProcessingLogger - INFO - CARD NUMBER: 5225768888388888
+2025-05-13 16:15:26,181 - CardProcessingLogger - INFO - image saved: _output\530.jpg
+2025-05-13 16:15:26,297 - CardProcessingLogger - ERROR - eroor in polygon processing 531.jpg: Failed to approximate polygon to 4
+2025-05-13 16:15:27,755 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 16:15:27,757 - CardProcessingLogger - INFO - image saved: _output\85.jpg
+2025-05-13 16:15:29,115 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 16:15:29,117 - CardProcessingLogger - INFO - image saved: _output\86.jpg
+2025-05-13 16:15:30,653 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 16:15:30,654 - CardProcessingLogger - INFO - image saved: _output\87.jpg
+2025-05-13 16:15:31,853 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 16:15:31,854 - CardProcessingLogger - INFO - image saved: _output\88.jpg
+2025-05-13 16:15:33,025 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888838888
+2025-05-13 16:15:33,026 - CardProcessingLogger - INFO - image saved: _output\89.jpg
+2025-05-13 16:15:34,562 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 16:15:34,564 - CardProcessingLogger - INFO - image saved: _output\90.jpg
+2025-05-13 16:15:35,929 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 16:15:35,931 - CardProcessingLogger - INFO - image saved: _output\91.jpg
+2025-05-13 16:15:36,982 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 16:15:36,984 - CardProcessingLogger - INFO - image saved: _output\92.jpg
+2025-05-13 16:15:37,935 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 16:15:37,936 - CardProcessingLogger - INFO - image saved: _output\93.jpg
+2025-05-13 16:15:38,830 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 16:15:38,831 - CardProcessingLogger - INFO - image saved: _output\94.jpg
+2025-05-13 16:15:40,138 - CardProcessingLogger - INFO - CARD NUMBER: 5225758888388898
+2025-05-13 16:15:40,140 - CardProcessingLogger - INFO - image saved: _output\95.jpg
+2025-05-13 16:15:41,299 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 16:15:41,301 - CardProcessingLogger - INFO - image saved: _output\96.jpg
+2025-05-13 16:15:42,163 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 16:15:42,165 - CardProcessingLogger - INFO - image saved: _output\97.jpg
+2025-05-13 16:15:42,995 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 16:15:42,996 - CardProcessingLogger - INFO - image saved: _output\98.jpg
+2025-05-13 16:15:44,107 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 16:15:44,108 - CardProcessingLogger - INFO - image saved: _output\99.jpg
+2025-05-13 20:42:32,703 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 20:42:32,705 - CardProcessingLogger - INFO - image saved: _output\100.jpg
+2025-05-13 20:42:33,712 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 20:42:33,713 - CardProcessingLogger - INFO - image saved: _output\101.jpg
+2025-05-13 20:42:34,605 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 20:42:34,607 - CardProcessingLogger - INFO - image saved: _output\102.jpg
+2025-05-13 20:42:35,270 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 20:42:35,271 - CardProcessingLogger - INFO - image saved: _output\103.jpg
+2025-05-13 20:42:36,356 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:42:36,357 - CardProcessingLogger - INFO - image saved: _output\105.jpg
+2025-05-13 20:42:37,405 - CardProcessingLogger - INFO - CARD NUMBER: 5225758888888888
+2025-05-13 20:42:37,406 - CardProcessingLogger - INFO - image saved: _output\106.jpg
+2025-05-13 20:42:38,259 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:42:38,260 - CardProcessingLogger - INFO - image saved: _output\107.jpg
+2025-05-13 20:42:39,005 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:42:39,006 - CardProcessingLogger - INFO - image saved: _output\108.jpg
+2025-05-13 20:42:39,873 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 20:42:39,874 - CardProcessingLogger - INFO - image saved: _output\109.jpg
+2025-05-13 20:42:41,344 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:42:41,345 - CardProcessingLogger - INFO - image saved: _output\110.jpg
+2025-05-13 20:42:42,695 - CardProcessingLogger - INFO - CARD NUMBER: 6225768888888888
+2025-05-13 20:42:42,697 - CardProcessingLogger - INFO - image saved: _output\111.jpg
+2025-05-13 20:42:42,814 - CardProcessingLogger - ERROR - eroor in polygon processing 112.jpg: Failed to approximate polygon to 4
+2025-05-13 20:42:43,710 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:42:43,711 - CardProcessingLogger - INFO - image saved: _output\113.jpg
+2025-05-13 20:42:45,309 - CardProcessingLogger - INFO - CARD NUMBER: 4392608888888888
+2025-05-13 20:42:45,310 - CardProcessingLogger - INFO - image saved: _output\115.jpg
+2025-05-13 20:42:46,741 - CardProcessingLogger - INFO - CARD NUMBER: 4392608888888888
+2025-05-13 20:42:46,743 - CardProcessingLogger - INFO - image saved: _output\116.jpg
+2025-05-13 20:42:46,860 - CardProcessingLogger - ERROR - eroor in polygon processing 117.jpg: Failed to approximate polygon to 4
+2025-05-13 20:42:47,740 - CardProcessingLogger - INFO - CARD NUMBER: 4392608888888888
+2025-05-13 20:42:47,741 - CardProcessingLogger - INFO - image saved: _output\118.jpg
+2025-05-13 20:42:48,885 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:42:48,887 - CardProcessingLogger - INFO - image saved: _output\120.jpg
+2025-05-13 20:42:50,149 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:42:50,151 - CardProcessingLogger - INFO - image saved: _output\121.jpg
+2025-05-13 20:42:51,409 - CardProcessingLogger - INFO - CARD NUMBER: 6225818888888888
+2025-05-13 20:42:51,410 - CardProcessingLogger - INFO - image saved: _output\122.jpg
+2025-05-13 20:42:52,276 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:42:52,277 - CardProcessingLogger - INFO - image saved: _output\123.jpg
+2025-05-13 20:42:53,207 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:42:53,208 - CardProcessingLogger - INFO - image saved: _output\124.jpg
+2025-05-13 20:42:54,447 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:42:54,448 - CardProcessingLogger - INFO - image saved: _output\125.jpg
+2025-05-13 20:42:55,606 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:42:55,607 - CardProcessingLogger - INFO - image saved: _output\126.jpg
+2025-05-13 20:42:56,698 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:42:56,699 - CardProcessingLogger - INFO - image saved: _output\127.jpg
+2025-05-13 20:42:57,632 - CardProcessingLogger - INFO - CARD NUMBER: 5236498653888888
+2025-05-13 20:42:57,634 - CardProcessingLogger - INFO - image saved: _output\128.jpg
+2025-05-13 20:42:58,829 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 20:42:58,831 - CardProcessingLogger - INFO - image saved: _output\517.jpg
+2025-05-13 20:42:59,921 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 20:42:59,923 - CardProcessingLogger - INFO - image saved: _output\518.jpg
+2025-05-13 20:43:00,043 - CardProcessingLogger - ERROR - eroor in polygon processing 519.jpg: Failed to approximate polygon to 4
+2025-05-13 20:43:00,986 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:43:00,987 - CardProcessingLogger - INFO - image saved: _output\520.jpg
+2025-05-13 20:43:01,926 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 20:43:01,928 - CardProcessingLogger - INFO - image saved: _output\521.jpg
+2025-05-13 20:43:03,235 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:43:03,236 - CardProcessingLogger - INFO - image saved: _output\522.jpg
+2025-05-13 20:43:03,358 - CardProcessingLogger - ERROR - eroor in polygon processing 523.jpg: Failed to approximate polygon to 4
+2025-05-13 20:43:03,483 - CardProcessingLogger - ERROR - eroor in polygon processing 524.jpg: Failed to approximate polygon to 4
+2025-05-13 20:43:04,410 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:43:04,411 - CardProcessingLogger - INFO - image saved: _output\526.jpg
+2025-05-13 20:43:05,639 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:43:05,640 - CardProcessingLogger - INFO - image saved: _output\527.jpg
+2025-05-13 20:43:07,012 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:43:07,014 - CardProcessingLogger - INFO - image saved: _output\528.jpg
+2025-05-13 20:43:07,131 - CardProcessingLogger - ERROR - eroor in polygon processing 529.jpg: Failed to approximate polygon to 4
+2025-05-13 20:43:08,124 - CardProcessingLogger - INFO - CARD NUMBER: 5225768888388888
+2025-05-13 20:43:08,125 - CardProcessingLogger - INFO - image saved: _output\530.jpg
+2025-05-13 20:43:08,242 - CardProcessingLogger - ERROR - eroor in polygon processing 531.jpg: Failed to approximate polygon to 4
+2025-05-13 20:43:09,516 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:43:09,518 - CardProcessingLogger - INFO - image saved: _output\85.jpg
+2025-05-13 20:43:10,775 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:43:10,776 - CardProcessingLogger - INFO - image saved: _output\86.jpg
+2025-05-13 20:43:12,101 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:43:12,102 - CardProcessingLogger - INFO - image saved: _output\87.jpg
+2025-05-13 20:43:13,138 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:43:13,140 - CardProcessingLogger - INFO - image saved: _output\88.jpg
+2025-05-13 20:43:14,137 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888838888
+2025-05-13 20:43:14,139 - CardProcessingLogger - INFO - image saved: _output\89.jpg
+2025-05-13 20:43:15,470 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:43:15,472 - CardProcessingLogger - INFO - image saved: _output\90.jpg
+2025-05-13 20:43:16,771 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:43:16,773 - CardProcessingLogger - INFO - image saved: _output\91.jpg
+2025-05-13 20:43:17,762 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:43:17,763 - CardProcessingLogger - INFO - image saved: _output\92.jpg
+2025-05-13 20:43:18,587 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:43:18,588 - CardProcessingLogger - INFO - image saved: _output\93.jpg
+2025-05-13 20:43:19,403 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:43:19,404 - CardProcessingLogger - INFO - image saved: _output\94.jpg
+2025-05-13 20:43:20,572 - CardProcessingLogger - INFO - CARD NUMBER: 5225758888388898
+2025-05-13 20:43:20,574 - CardProcessingLogger - INFO - image saved: _output\95.jpg
+2025-05-13 20:43:21,610 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 20:43:21,611 - CardProcessingLogger - INFO - image saved: _output\96.jpg
+2025-05-13 20:43:22,386 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 20:43:22,387 - CardProcessingLogger - INFO - image saved: _output\97.jpg
+2025-05-13 20:43:23,089 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 20:43:23,090 - CardProcessingLogger - INFO - image saved: _output\98.jpg
+2025-05-13 20:43:24,073 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-13 20:43:24,074 - CardProcessingLogger - INFO - image saved: _output\99.jpg
+2025-05-13 20:52:49,195 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:52:49,196 - CardProcessingLogger - INFO - image saved: _output\100.jpg
+2025-05-13 20:52:50,177 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:52:50,178 - CardProcessingLogger - INFO - image saved: _output\101.jpg
+2025-05-13 20:52:51,029 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:52:51,030 - CardProcessingLogger - INFO - image saved: _output\102.jpg
+2025-05-13 20:52:51,638 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:52:51,639 - CardProcessingLogger - INFO - image saved: _output\103.jpg
+2025-05-13 20:52:52,533 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:52:52,534 - CardProcessingLogger - INFO - image saved: _output\105.jpg
+2025-05-13 20:52:53,444 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:52:53,446 - CardProcessingLogger - INFO - image saved: _output\106.jpg
+2025-05-13 20:52:54,219 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:52:54,220 - CardProcessingLogger - INFO - image saved: _output\107.jpg
+2025-05-13 20:52:54,841 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:52:54,842 - CardProcessingLogger - INFO - image saved: _output\108.jpg
+2025-05-13 20:52:55,634 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:52:55,635 - CardProcessingLogger - INFO - image saved: _output\109.jpg
+2025-05-13 20:52:57,003 - CardProcessingLogger - INFO - CARD NUMBER: 2224709668806628
+2025-05-13 20:52:57,004 - CardProcessingLogger - INFO - image saved: _output\110.jpg
+2025-05-13 20:52:58,315 - CardProcessingLogger - INFO - CARD NUMBER: 4223768089820081
+2025-05-13 20:52:58,316 - CardProcessingLogger - INFO - image saved: _output\111.jpg
+2025-05-13 20:52:58,437 - CardProcessingLogger - ERROR - eroor in polygon processing 112.jpg: Failed to approximate polygon to 4
+2025-05-13 20:52:59,171 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:52:59,172 - CardProcessingLogger - INFO - image saved: _output\113.jpg
+2025-05-13 20:53:00,688 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:53:00,690 - CardProcessingLogger - INFO - image saved: _output\115.jpg
+2025-05-13 20:53:01,893 - CardProcessingLogger - INFO - CARD NUMBER: 9282008080808620
+2025-05-13 20:53:01,894 - CardProcessingLogger - INFO - image saved: _output\116.jpg
+2025-05-13 20:53:02,010 - CardProcessingLogger - ERROR - eroor in polygon processing 117.jpg: Failed to approximate polygon to 4
+2025-05-13 20:53:02,790 - CardProcessingLogger - INFO - CARD NUMBER: 9362608660006006
+2025-05-13 20:53:02,792 - CardProcessingLogger - INFO - image saved: _output\118.jpg
+2025-05-13 20:53:03,797 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:53:03,798 - CardProcessingLogger - INFO - image saved: _output\120.jpg
+2025-05-13 20:53:04,921 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:53:04,922 - CardProcessingLogger - INFO - image saved: _output\121.jpg
+2025-05-13 20:53:05,939 - CardProcessingLogger - INFO - CARD NUMBER: 8225048088808880
+2025-05-13 20:53:05,940 - CardProcessingLogger - INFO - image saved: _output\122.jpg
+2025-05-13 20:53:06,723 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:53:06,724 - CardProcessingLogger - INFO - image saved: _output\123.jpg
+2025-05-13 20:53:07,505 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:53:07,507 - CardProcessingLogger - INFO - image saved: _output\124.jpg
+2025-05-13 20:53:08,527 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:53:08,528 - CardProcessingLogger - INFO - image saved: _output\125.jpg
+2025-05-13 20:53:09,851 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:53:09,852 - CardProcessingLogger - INFO - image saved: _output\126.jpg
+2025-05-13 20:53:11,035 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:53:11,037 - CardProcessingLogger - INFO - image saved: _output\127.jpg
+2025-05-13 20:53:11,839 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:53:11,840 - CardProcessingLogger - INFO - image saved: _output\128.jpg
+2025-05-13 20:53:12,988 - CardProcessingLogger - INFO - CARD NUMBER: 3267593088008222
+2025-05-13 20:53:12,989 - CardProcessingLogger - INFO - image saved: _output\517.jpg
+2025-05-13 20:53:13,946 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:53:13,947 - CardProcessingLogger - INFO - image saved: _output\518.jpg
+2025-05-13 20:53:14,074 - CardProcessingLogger - ERROR - eroor in polygon processing 519.jpg: Failed to approximate polygon to 4
+2025-05-13 20:53:14,968 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:53:14,970 - CardProcessingLogger - INFO - image saved: _output\520.jpg
+2025-05-13 20:53:15,991 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:53:15,992 - CardProcessingLogger - INFO - image saved: _output\521.jpg
+2025-05-13 20:53:17,164 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:53:17,166 - CardProcessingLogger - INFO - image saved: _output\522.jpg
+2025-05-13 20:53:17,289 - CardProcessingLogger - ERROR - eroor in polygon processing 523.jpg: Failed to approximate polygon to 4
+2025-05-13 20:53:17,415 - CardProcessingLogger - ERROR - eroor in polygon processing 524.jpg: Failed to approximate polygon to 4
+2025-05-13 20:53:18,160 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:53:18,162 - CardProcessingLogger - INFO - image saved: _output\526.jpg
+2025-05-13 20:53:19,306 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:53:19,307 - CardProcessingLogger - INFO - image saved: _output\527.jpg
+2025-05-13 20:53:20,656 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:53:20,658 - CardProcessingLogger - INFO - image saved: _output\528.jpg
+2025-05-13 20:53:20,774 - CardProcessingLogger - ERROR - eroor in polygon processing 529.jpg: Failed to approximate polygon to 4
+2025-05-13 20:53:21,700 - CardProcessingLogger - INFO - CARD NUMBER: 6225764829480808
+2025-05-13 20:53:21,701 - CardProcessingLogger - INFO - image saved: _output\530.jpg
+2025-05-13 20:53:21,821 - CardProcessingLogger - ERROR - eroor in polygon processing 531.jpg: Failed to approximate polygon to 4
+2025-05-13 20:53:22,962 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:53:22,964 - CardProcessingLogger - INFO - image saved: _output\85.jpg
+2025-05-13 20:53:24,130 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:53:24,131 - CardProcessingLogger - INFO - image saved: _output\86.jpg
+2025-05-13 20:53:25,238 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:53:25,240 - CardProcessingLogger - INFO - image saved: _output\87.jpg
+2025-05-13 20:53:26,186 - CardProcessingLogger - INFO - CARD NUMBER: 6235760000658533
+2025-05-13 20:53:26,188 - CardProcessingLogger - INFO - image saved: _output\88.jpg
+2025-05-13 20:53:27,014 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:53:27,016 - CardProcessingLogger - INFO - image saved: _output\89.jpg
+2025-05-13 20:53:28,192 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:53:28,194 - CardProcessingLogger - INFO - image saved: _output\90.jpg
+2025-05-13 20:53:29,464 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:53:29,465 - CardProcessingLogger - INFO - image saved: _output\91.jpg
+2025-05-13 20:53:30,340 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:53:30,341 - CardProcessingLogger - INFO - image saved: _output\92.jpg
+2025-05-13 20:53:30,965 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:53:30,966 - CardProcessingLogger - INFO - image saved: _output\93.jpg
+2025-05-13 20:53:31,707 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:53:31,708 - CardProcessingLogger - INFO - image saved: _output\94.jpg
+2025-05-13 20:53:32,822 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:53:32,824 - CardProcessingLogger - INFO - image saved: _output\95.jpg
+2025-05-13 20:53:33,760 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:53:33,761 - CardProcessingLogger - INFO - image saved: _output\96.jpg
+2025-05-13 20:53:34,445 - CardProcessingLogger - INFO - CARD NUMBER: 6225750280088880
+2025-05-13 20:53:34,446 - CardProcessingLogger - INFO - image saved: _output\97.jpg
+2025-05-13 20:53:35,073 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:53:35,074 - CardProcessingLogger - INFO - image saved: _output\98.jpg
+2025-05-13 20:53:35,868 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:53:35,869 - CardProcessingLogger - INFO - image saved: _output\99.jpg
+2025-05-13 20:54:35,491 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:54:35,492 - CardProcessingLogger - INFO - image saved: _output\100.jpg
+2025-05-13 20:54:36,392 - CardProcessingLogger - INFO - CARD NUMBER: 6225758000000680
+2025-05-13 20:54:36,394 - CardProcessingLogger - INFO - image saved: _output\101.jpg
+2025-05-13 20:54:37,237 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:54:37,238 - CardProcessingLogger - INFO - image saved: _output\102.jpg
+2025-05-13 20:54:37,738 - CardProcessingLogger - INFO - CARD NUMBER: 8225758888888884
+2025-05-13 20:54:37,739 - CardProcessingLogger - INFO - image saved: _output\103.jpg
+2025-05-13 20:54:38,636 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:54:38,637 - CardProcessingLogger - INFO - image saved: _output\105.jpg
+2025-05-13 20:54:39,595 - CardProcessingLogger - INFO - CARD NUMBER: 2257560660890000
+2025-05-13 20:54:39,596 - CardProcessingLogger - INFO - image saved: _output\106.jpg
+2025-05-13 20:54:40,268 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:54:40,269 - CardProcessingLogger - INFO - image saved: _output\107.jpg
+2025-05-13 20:54:40,892 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:54:40,893 - CardProcessingLogger - INFO - image saved: _output\108.jpg
+2025-05-13 20:54:41,648 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:54:41,650 - CardProcessingLogger - INFO - image saved: _output\109.jpg
+2025-05-13 20:54:42,944 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:54:42,945 - CardProcessingLogger - INFO - image saved: _output\110.jpg
+2025-05-13 20:54:44,214 - CardProcessingLogger - INFO - CARD NUMBER: 8220768840089901
+2025-05-13 20:54:44,216 - CardProcessingLogger - INFO - image saved: _output\111.jpg
+2025-05-13 20:54:44,337 - CardProcessingLogger - ERROR - eroor in polygon processing 112.jpg: Failed to approximate polygon to 4
+2025-05-13 20:54:45,102 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:54:45,103 - CardProcessingLogger - INFO - image saved: _output\113.jpg
+2025-05-13 20:54:46,670 - CardProcessingLogger - INFO - CARD NUMBER: 4372823330282220
+2025-05-13 20:54:46,671 - CardProcessingLogger - INFO - image saved: _output\115.jpg
+2025-05-13 20:54:47,797 - CardProcessingLogger - INFO - CARD NUMBER: 0392603008880892
+2025-05-13 20:54:47,799 - CardProcessingLogger - INFO - image saved: _output\116.jpg
+2025-05-13 20:54:47,918 - CardProcessingLogger - ERROR - eroor in polygon processing 117.jpg: Failed to approximate polygon to 4
+2025-05-13 20:54:48,666 - CardProcessingLogger - INFO - CARD NUMBER: 7352678288000000
+2025-05-13 20:54:48,667 - CardProcessingLogger - INFO - image saved: _output\118.jpg
+2025-05-13 20:54:49,707 - CardProcessingLogger - INFO - CARD NUMBER: 1233313333333378
+2025-05-13 20:54:49,708 - CardProcessingLogger - INFO - image saved: _output\120.jpg
+2025-05-13 20:54:50,891 - CardProcessingLogger - INFO - CARD NUMBER: 6225018080608000
+2025-05-13 20:54:50,892 - CardProcessingLogger - INFO - image saved: _output\121.jpg
+2025-05-13 20:54:51,863 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:54:51,864 - CardProcessingLogger - INFO - image saved: _output\122.jpg
+2025-05-13 20:54:52,621 - CardProcessingLogger - INFO - CARD NUMBER: 6225368882878887
+2025-05-13 20:54:52,623 - CardProcessingLogger - INFO - image saved: _output\123.jpg
+2025-05-13 20:54:53,459 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:54:53,460 - CardProcessingLogger - INFO - image saved: _output\124.jpg
+2025-05-13 20:54:54,516 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:54:54,517 - CardProcessingLogger - INFO - image saved: _output\125.jpg
+2025-05-13 20:54:55,603 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:54:55,604 - CardProcessingLogger - INFO - image saved: _output\126.jpg
+2025-05-13 20:54:56,581 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:54:56,583 - CardProcessingLogger - INFO - image saved: _output\127.jpg
+2025-05-13 20:54:57,404 - CardProcessingLogger - INFO - CARD NUMBER: 5210356860899880
+2025-05-13 20:54:57,405 - CardProcessingLogger - INFO - image saved: _output\128.jpg
+2025-05-13 20:54:58,392 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:54:58,393 - CardProcessingLogger - INFO - image saved: _output\517.jpg
+2025-05-13 20:54:59,385 - CardProcessingLogger - INFO - CARD NUMBER: 6225750000000888
+2025-05-13 20:54:59,386 - CardProcessingLogger - INFO - image saved: _output\518.jpg
+2025-05-13 20:54:59,506 - CardProcessingLogger - ERROR - eroor in polygon processing 519.jpg: Failed to approximate polygon to 4
+2025-05-13 20:55:00,353 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:55:00,354 - CardProcessingLogger - INFO - image saved: _output\520.jpg
+2025-05-13 20:55:01,399 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:55:01,400 - CardProcessingLogger - INFO - image saved: _output\521.jpg
+2025-05-13 20:55:02,533 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:55:02,534 - CardProcessingLogger - INFO - image saved: _output\522.jpg
+2025-05-13 20:55:02,656 - CardProcessingLogger - ERROR - eroor in polygon processing 523.jpg: Failed to approximate polygon to 4
+2025-05-13 20:55:02,777 - CardProcessingLogger - ERROR - eroor in polygon processing 524.jpg: Failed to approximate polygon to 4
+2025-05-13 20:55:03,548 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:55:03,549 - CardProcessingLogger - INFO - image saved: _output\526.jpg
+2025-05-13 20:55:04,691 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:55:04,692 - CardProcessingLogger - INFO - image saved: _output\527.jpg
+2025-05-13 20:55:05,919 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:55:05,920 - CardProcessingLogger - INFO - image saved: _output\528.jpg
+2025-05-13 20:55:06,046 - CardProcessingLogger - ERROR - eroor in polygon processing 529.jpg: Failed to approximate polygon to 4
+2025-05-13 20:55:06,965 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:55:06,966 - CardProcessingLogger - INFO - image saved: _output\530.jpg
+2025-05-13 20:55:07,088 - CardProcessingLogger - ERROR - eroor in polygon processing 531.jpg: Failed to approximate polygon to 4
+2025-05-13 20:55:08,173 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:55:08,174 - CardProcessingLogger - INFO - image saved: _output\85.jpg
+2025-05-13 20:55:09,324 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:55:09,326 - CardProcessingLogger - INFO - image saved: _output\86.jpg
+2025-05-13 20:55:10,487 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:55:10,488 - CardProcessingLogger - INFO - image saved: _output\87.jpg
+2025-05-13 20:55:11,404 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:55:11,405 - CardProcessingLogger - INFO - image saved: _output\88.jpg
+2025-05-13 20:55:12,156 - CardProcessingLogger - INFO - CARD NUMBER: 8245753088890880
+2025-05-13 20:55:12,157 - CardProcessingLogger - INFO - image saved: _output\89.jpg
+2025-05-13 20:55:13,307 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:55:13,308 - CardProcessingLogger - INFO - image saved: _output\90.jpg
+2025-05-13 20:55:14,471 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:55:14,473 - CardProcessingLogger - INFO - image saved: _output\91.jpg
+2025-05-13 20:55:15,278 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:55:15,279 - CardProcessingLogger - INFO - image saved: _output\92.jpg
+2025-05-13 20:55:15,941 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:55:15,942 - CardProcessingLogger - INFO - image saved: _output\93.jpg
+2025-05-13 20:55:16,801 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:55:16,802 - CardProcessingLogger - INFO - image saved: _output\94.jpg
+2025-05-13 20:55:17,888 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:55:17,889 - CardProcessingLogger - INFO - image saved: _output\95.jpg
+2025-05-13 20:55:18,828 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:55:18,829 - CardProcessingLogger - INFO - image saved: _output\96.jpg
+2025-05-13 20:55:19,492 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:55:19,493 - CardProcessingLogger - INFO - image saved: _output\97.jpg
+2025-05-13 20:55:20,163 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:55:20,164 - CardProcessingLogger - INFO - image saved: _output\98.jpg
+2025-05-13 20:55:21,018 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-13 20:55:21,020 - CardProcessingLogger - INFO - image saved: _output\99.jpg

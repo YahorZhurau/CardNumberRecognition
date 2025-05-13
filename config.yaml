@@ -1,0 +1,8 @@
+# config.yaml
+
+input_dir: "_input"
+output_dir: "_output"
+model_path: "card-seg_yolo11s.pt"
+log_file: "logs/app.log"
+languages: [ "en" ]
+only_16: True
