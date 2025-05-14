@@ -40,6 +40,7 @@ pip install -r requirements.txt
 ```
 
 ### 4. Использование
+Прогон всех файлов из _input в _output
 ```bash
 python main.py
 ```
