@@ -516,3 +516,25 @@
 2025-05-13 20:55:20,164 - CardProcessingLogger - INFO - image saved: _output\98.jpg
 2025-05-13 20:55:21,018 - CardProcessingLogger - WARNING - Can't recog card number
 2025-05-13 20:55:21,020 - CardProcessingLogger - INFO - image saved: _output\99.jpg
+2025-05-14 09:18:02,972 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-14 09:18:02,973 - CardProcessingLogger - INFO - image saved: _output\109.jpg
+2025-05-14 09:18:03,505 - CardProcessingLogger - INFO - CARD NUMBER: 6225768888888888
+2025-05-14 09:18:03,506 - CardProcessingLogger - INFO - image saved: _output\111.jpg
+2025-05-14 09:18:04,166 - CardProcessingLogger - INFO - CARD NUMBER: 4392608888888888
+2025-05-14 09:18:04,168 - CardProcessingLogger - INFO - image saved: _output\115.jpg
+2025-05-14 09:18:04,755 - CardProcessingLogger - INFO - CARD NUMBER: 4392608888888888
+2025-05-14 09:18:04,756 - CardProcessingLogger - INFO - image saved: _output\116.jpg
+2025-05-14 09:18:05,092 - CardProcessingLogger - INFO - CARD NUMBER: 4392608888888888
+2025-05-14 09:18:05,094 - CardProcessingLogger - INFO - image saved: _output\118.jpg
+2025-05-14 09:18:05,585 - CardProcessingLogger - INFO - CARD NUMBER: 6225818888888888
+2025-05-14 09:18:05,586 - CardProcessingLogger - INFO - image saved: _output\122.jpg
+2025-05-14 09:18:06,094 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-14 09:18:06,095 - CardProcessingLogger - INFO - image saved: _output\517.jpg
+2025-05-14 09:18:06,530 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-14 09:18:06,531 - CardProcessingLogger - INFO - image saved: _output\518.jpg
+2025-05-14 09:18:06,932 - CardProcessingLogger - INFO - CARD NUMBER: 6225758888888888
+2025-05-14 09:18:06,934 - CardProcessingLogger - INFO - image saved: _output\521.jpg
+2025-05-14 09:18:07,314 - CardProcessingLogger - WARNING - Can't recog card number
+2025-05-14 09:18:07,316 - CardProcessingLogger - INFO - image saved: _output\526.jpg
+2025-05-14 09:18:07,704 - CardProcessingLogger - INFO - CARD NUMBER: 6225768888888888
+2025-05-14 09:18:07,705 - CardProcessingLogger - INFO - image saved: _output\531.jpg
